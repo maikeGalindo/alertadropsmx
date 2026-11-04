@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: "AlertaDropsMX | Twitch Badge Tracker",
-  description: "No pierdas ningún emblema de Twitch. Consulta los drops activos de AlertaDropsMX en tiempo real.",
+  title: "AlertaDropsMX | Rastreador de insignias",
+  description: "No pierdas ninguna insignia de Twitch. Consulta los drops activos de Alertas de Drops en tiempo real.",
 }
 
 export const viewport: Viewport = {
