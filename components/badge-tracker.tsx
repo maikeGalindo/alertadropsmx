@@ -51,7 +51,7 @@ export function BadgeTracker() {
     <div className="min-h-screen overflow-hidden bg-[#06070d] text-foreground">
       <header className="sticky top-0 z-20 border-b border-white/5 bg-[#090a12]/85 backdrop-blur-xl">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-5 py-3.5 sm:px-8">
-          <a href="#top" className="flex items-center gap-3"><img src="/alertadropsmx-logo.png" alt="Logo de Alertas de Drops" className="size-12 rounded-xl object-cover" /><span><strong className="block text-base leading-tight">Alertas <span className="text-cyan-300">de Drops</span></strong><span className="text-[11px] text-muted-foreground">Rastreador de insignias de Twitch</span></span></a>
+          <a href="#top" className="flex items-center gap-3"><img src="/alertadropsmx-logo.png" alt="Logo de Alertas de Drops" className="size-12 rounded-xl object-cover" /><span><strong className="block text-base leading-tight">AlertaDropsMX</strong><span className="text-[11px] text-muted-foreground">Rastreador de insignias de Twitch</span></span></a>
           <nav className="hidden items-center gap-6 text-sm text-muted-foreground md:flex"><a className="text-cyan-300" href="#top">Inicio</a><a href="#badges">Insignias</a><a href="https://twitch.tv/alertadropsmx" target="_blank" rel="noreferrer">En vivo</a></nav>
           <a className="inline-flex min-h-11 items-center gap-2 rounded-full bg-cyan-300 px-4 text-sm font-semibold text-slate-950 hover:bg-cyan-200" href="https://twitch.tv/alertadropsmx" target="_blank" rel="noreferrer"><Radio aria-hidden="true" className="size-4" />Ver transmisión</a>
         </div>
